@@ -14,3 +14,5 @@ Fitur Utama Aplikasi
 7. Interaksi Antar Form: Setiap perubahan data di form input otomatis diperbarui di form daftar stok, sehingga data yang ditampilkan selalu up-to-date.
 8. Manajemen Koneksi Database: Koneksi database yang dikelola dengan baik untuk memastikan setiap operasi CRUD berjalan dengan aman dan efisien.
 9. Konfirmasi Tindakan: Menggunakan dialog konfirmasi saat akan menutup form atau menghapus data untuk menghindari kesalahan pengguna.
+
+![image alt](https://github.com/Alfinaa29/aplikasi_manajemen_stok_beras/blob/060484a459f4cb9f57860952f7affc2278ed7a52/Screenshot%20(851).png)
