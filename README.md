@@ -1,3 +1,4 @@
+
 Deskripsi Aplikasi Manajemen Stok Beras
 
 Aplikasi Manajemen Stok Beras ini dirancang untuk membantu pengguna dalam mengelola data stok beras secara efisien dan terstruktur. Aplikasi memiliki beberapa form utama yang saling terintegrasi, yakni form untuk menampilkan daftar stok beras, form input data beras untuk menambah, mengedit, dan menghapus data stok, serta modul koneksi database yang mengatur komunikasi antara aplikasi dan database MySQL.
@@ -17,3 +18,4 @@ Fitur Utama Aplikasi
 
 ![image alt](https://github.com/Alfinaa29/aplikasi_manajemen_stok_beras/blob/060484a459f4cb9f57860952f7affc2278ed7a52/Screenshot%20(851).png)
 ![image alt](https://github.com/Alfinaa29/App_Manajemen_Stok_Beras/blob/main/Screenshot%202025-05-26%20111115.png)
+![image alt](https://github.com/Alfinaa29/App_Manajemen_Stok_Beras/blob/main/Screenshot%202025-05-26%20111147.png)
