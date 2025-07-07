@@ -17,5 +17,5 @@ Fitur Utama Aplikasi
 9. Konfirmasi Tindakan: Menggunakan dialog konfirmasi saat akan menutup form atau menghapus data untuk menghindari kesalahan pengguna.
 
 ![image alt](https://github.com/Alfinaa29/App_Manajemen_Stok_Beras/blob/main/Screenshot%202025-05-26%20111115.png)
-![image alt](https://github.com/Alfinaa29/App_Manajemen_Stok_Beras/blob/main/Screenshot%202025-05-26%20111147.png)
+![image alt](https://github.com/Alfinaa29/App_Manajemen_Stok_Beras/blob/main/Screenshot%202025-07-07%20093347.png)
 ![image alt](https://github.com/Alfinaa29/App_Manajemen_Stok_Beras/blob/main/Screenshot%202025-05-26%20111209.png)
