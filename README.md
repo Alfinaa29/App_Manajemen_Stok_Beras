@@ -18,4 +18,4 @@ Fitur Utama Aplikasi
 
 ![image alt](https://github.com/Alfinaa29/App_Manajemen_Stok_Beras/blob/main/Screenshot%202025-05-26%20111115.png)
 ![image alt](https://github.com/Alfinaa29/App_Manajemen_Stok_Beras/blob/main/Screenshot%202025-07-07%20093347.png)
-![image alt](https://github.com/Alfinaa29/App_Manajemen_Stok_Beras/blob/main/Screenshot%202025-05-26%20111209.png)
+![image alt](https://github.com/Alfinaa29/App_Manajemen_Stok_Beras/blob/main/Screenshot%202025-07-07%20093328.png)
